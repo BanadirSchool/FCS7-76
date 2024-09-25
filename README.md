@@ -4,8 +4,8 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Cubeyd Hussien Ali </h1>
-            <h2> ID: 0074</h2>
+            <h1> Abdulkadir Abdi Mohamud </h1>
+            <h2> ID: 0076</h2>
             <table border="25">
                 <tr>
                     <th>Maadada </th>
